@@ -1,0 +1,30 @@
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\bin\Debug\NewsClient.exe.config
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\bin\Debug\NewsClient.exe
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\bin\Debug\NewsClient.pdb
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.csprojAssemblyReference.cache
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.Authorization.resources
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.Properties.Resources.resources
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.csproj.GenerateResource.cache
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.csproj.CoreCompileInputs.cache
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.exe
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.pdb
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.Registration.resources
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.UserForm.resources
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.OfferNews.resources
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.AllNews.resources
+D:\Study\4sem\КСиС\Курсовая\NewsClient\NewsClient\obj\Debug\NewsClient.CurrentNews.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\bin\Debug\NewsClient.exe.config
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\bin\Debug\NewsClient.exe
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\bin\Debug\NewsClient.pdb
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.csprojAssemblyReference.cache
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.AllNews.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.Authorization.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.CurrentNews.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.OfferNews.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.Properties.Resources.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.Registration.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.UserForm.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.csproj.GenerateResource.cache
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.csproj.CoreCompileInputs.cache
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.exe
+D:\Study\4sem\КСиС\Ксис курач\NewsClient\NewsClient\obj\Debug\NewsClient.pdb
